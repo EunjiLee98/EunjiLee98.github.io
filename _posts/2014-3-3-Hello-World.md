@@ -3,7 +3,8 @@ layout: post
 title: Welcome to Eunji's blog :)
 ---
 
-My major at HGU is **computer science**
+My major at HGU is **Computer Science**
+
 Recently, I'm really into C language because making game with C language makes me happy :) 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
