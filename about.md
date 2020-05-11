@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Biography 
+title: About
 permalink: /about/
 ---
 
-Currently working as a researcher at KSOE(Korean Shipbuilding & Offshore Engineering).
+Some information about you!
 
-### Educational Background
+### More Information
 
-M.S Pohang University of Science and Technology, 2017-2020. Advisor: Kyungmin Bae
-B.SE Handong Global University, 2010-2017
+A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[kasrlmoojoo@gmail.com](mailto:kasrlmoojoo@gmail.com)
+[email@domain.com](mailto:email@domain.com)
