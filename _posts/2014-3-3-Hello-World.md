@@ -3,7 +3,8 @@ layout: post
 title: Welcome to Eunji's blog :)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+My major at HGU is **computer science**
+Recently, I'm really into C language because making game with C language makes me happy :) 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
